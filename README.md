@@ -4,7 +4,7 @@
 
 ### Currently I am working with ...
 
-<a href="" target="_blank" title="Next.js" rel="noreferrer"><img src="https://upload.vectorlogo.zone/logos/nextjs/images/271afdac-aad3-4712-89fd-a25f63fd6dd4.html" alt="Next.js" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="Next.js" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Node.js" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="ReactJS" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJS" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="TypeScript" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="30" height="30"/></a>&nbsp;&nbsp;
