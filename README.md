@@ -1,6 +1,6 @@
 ## Hello👋 I'm Faizan 👨🏻‍💻
 
- I am a seasoned full-stack developer based in India 🇮🇳, equipped with two and half years of experience in the role of a Full Stack Developer..<!--at [Inzint](https://ghost.org/) -->
+ I am a seasoned full-stack developer based in India 🇮🇳, equipped with 3+ years of experience in the role of a Full Stack Developer..<!--at [Inzint](https://ghost.org/) -->
 
 ### Currently I am working with ...
 
